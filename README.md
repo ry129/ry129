@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend and DBMS**
 
-- 💬 Ask me about **JavaScript||React and Front-end**
+- 💬 Ask me about **JavaScript , React and Front-end**
 
 - 📫 How to reach me **0111cs211146.riya@gmail.com**
 
