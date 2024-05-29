@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript , React and Front-end**
 
-- 📫 How to reach me **0111cs211146.riya@gmail.com**
+- 📫 How to reach me **yriyaa30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
